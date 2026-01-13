@@ -8,7 +8,7 @@ This is all for experimentating, with different levels of chunking and vector em
 
 The corpus for experimentation is the text of the Bible, sourced from [https://github.com/kenyonbowers/BibleJSON](https://github.com/kenyonbowers/BibleJSON).
 
-The translation is the Pure Cambridge Edition (PCE), wherever that comes from.
+The translation is the Pure Cambridge Edition (PCE), wherever that comes from. ([A supposed explanation](https://www.purecambridgetext.com/post/what-is-meant-by-the-pure-cambridge-text).)
 
 I've cleaned up the text of HTML and oddball unicode code points, and created my own JSON in `bible/bible.json`.
 
