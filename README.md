@@ -12,6 +12,8 @@ The translation is the Pure Cambridge Edition (PCE), wherever that comes from.
 
 I've cleaned up the text of HTML and oddball unicode code points, and created my own JSON in `bible/bible.json`.
 
+I can't really call myself religious with a straight face, but it's a book I know fairly well.
+
 ## Odds 'n' Ends
 
 I just learned that the makers of `uv` created a fast Rust-based typechecker called `ty`, and a linter / formatter called `ruff`. They are fabulous.
